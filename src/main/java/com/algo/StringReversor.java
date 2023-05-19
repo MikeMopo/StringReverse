@@ -1,6 +1,8 @@
 package com.algo;
 
 public class StringReversor {
+
+    //I have added this comment to check if pull is working
     public static String reversalMethod(String input) {
         String [] stringToreverse = input.split("\\s");
         String reversedString = "";
